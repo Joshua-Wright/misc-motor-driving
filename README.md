@@ -35,6 +35,7 @@ these are now super cheap, thanks to hobby drones. But can such motors do decent
 resources:
 * https://www.instructables.com/id/Make-Your-Own-ESC/
 * http://www.electronoobs.com/eng_circuitos_tut4.php
+* https://hackaday.io/project/160585-motor-as-encoder
 
 
 
